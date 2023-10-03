@@ -1,0 +1,3 @@
+<?
+CJsCore::Init(Array('window'));
+?>
